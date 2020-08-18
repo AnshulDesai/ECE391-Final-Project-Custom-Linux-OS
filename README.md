@@ -1,0 +1,3 @@
+# ECE 391 (Computer Systems Engineering) Final Project - Custom Linux Operating System
+
+Written in x86 assembly and C.  A simple, Linux-kernel based operating system that demonstrates a variety of fundamental operating system requirements.  Some of these requirements including paging, virtualization, system calls, file system/caching, as well as the ability to run, edit, and store user-input programs.
